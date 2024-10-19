@@ -1,4 +1,4 @@
-# Quizizz
+# QuizizzHacks
 Powerful Quizizz Hacks
 
 To Use:
